@@ -163,7 +163,7 @@ ivNoteEditBack.setOnClickListener(new View.OnClickListener() {
 ## 6、查看笔记
 通过输入标题直接查看笔记  
 ![无法显示](/images/12.png)
-![无法显示](/images/10.png)
+![无法显示](/images/18.png)
 ![无法显示](/images/11.png)
 ```
     private Boolean doSearch(String title) {
@@ -184,5 +184,5 @@ ivNoteEditBack.setOnClickListener(new View.OnClickListener() {
     }
 ```
 ## 7、UI
-
+![无法显示](/images/17.png)
 ![无法显示](/images/11.png)
