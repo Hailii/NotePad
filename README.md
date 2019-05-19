@@ -118,6 +118,7 @@
 ```
 ## 5、按步撤销
 ![无法显示](/images/5.png)
+![无法显示](/images/16.png)
 ![无法显示](/images/6.png)  
 对**EditText**进行监听，这里使用addTextChangedListener()方法进行监听
 ```
